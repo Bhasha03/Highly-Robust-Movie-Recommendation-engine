@@ -65,7 +65,7 @@ Highly-Robust-Movie-Recommendation-engine/
 
 ---
 
-## 🧪 Evaluation Metrics (To Add)
+## 🧪 Evaluation Metrics
 
 * RMSE for collaborative models
 * Precision, Recall
